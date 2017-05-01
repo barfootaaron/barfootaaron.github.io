@@ -1,0 +1,36 @@
+
+
+/* CONTAINER FOR FRAMEWORK LOGOS */
+.logobox {
+	display: block;
+	margin-top: 1.5em;
+	width: 275;
+	height: 250px;
+}
+
+.logobox img {
+	height: 150px;
+}
+
+.logobox h3 {
+	font-weight: bold;
+}
+
+
+/*ABOUT ME SECTION*/
+.bg-primary {
+	background-color: #01579b;
+}
+
+.btn-primary {
+	background-color: #01579b;
+}
+
+
+.navbar-default.affix .navbar-header .navbar-brand {
+	color: #01579b;
+}
+
+hr {
+	border-color: #01579b;
+}
