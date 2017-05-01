@@ -34,3 +34,15 @@
 hr {
 	border-color: #01579b;
 }
+
+.footer-icon {
+	margin-top: 35px;
+}
+
+.footer-icon a {
+	color: black;
+}
+
+.footer-icon p {
+	margin-top: 10px;
+}
