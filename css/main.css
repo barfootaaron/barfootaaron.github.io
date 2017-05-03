@@ -1,15 +1,31 @@
+/* BODY */
+hr {
+	border-color: #01579b;
+}
 
+.btn-primary {
+	background-color: #01579b;
+}
 
-/* CONTAINER FOR FRAMEWORK LOGOS */
+/* NAV */
+.navbar-default.affix .navbar-header .navbar-brand {
+	color: #01579b;
+}
+
+/* ABOUT SECTION */
+#main-avatar {
+	margin-bottom: 20px;
+}
+
+/* CONTAINER FOR EACH FRAMEWORK LOGO */
 .logobox {
 	display: block;
-	margin-top: 1.5em;
-	width: 275;
+	margin-top: .7em;
 	height: 250px;
 }
 
 .logobox img {
-	height: 150px;
+	height: 100px;
 }
 
 .logobox h3 {
@@ -17,26 +33,15 @@
 }
 
 
-/*ABOUT ME SECTION*/
+/* ABOUT ME SECTION */
 .bg-primary {
 	background-color: #01579b;
 }
 
-.btn-primary {
-	background-color: #01579b;
-}
 
-
-.navbar-default.affix .navbar-header .navbar-brand {
-	color: #01579b;
-}
-
-hr {
-	border-color: #01579b;
-}
-
+/* FOOTER */
 .footer-icon {
-	margin-top: 35px;
+	margin-top: 12px;
 }
 
 .footer-icon a {
