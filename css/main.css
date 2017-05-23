@@ -1,4 +1,7 @@
 /* BODY */
+
+
+
 hr {
 	border-color: #01579b;
 }
@@ -9,9 +12,14 @@ hr {
 
 /* NAV */
 
-@media (min-width: 768px)
+#main-title {
+	font-size: 15px;
+}
+
+@media (min-width: 768px) {
 .navbar-default .navbar-header .navbar-brand {
 	color: #01579b;
+	}
 }
 
 .navbar-default.affix .navbar-header .navbar-brand {
