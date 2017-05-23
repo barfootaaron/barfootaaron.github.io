@@ -8,6 +8,12 @@ hr {
 }
 
 /* NAV */
+
+@media (min-width: 768px)
+.navbar-default .navbar-header .navbar-brand {
+	color: #01579b;
+}
+
 .navbar-default.affix .navbar-header .navbar-brand {
 	color: #01579b;
 }
@@ -36,6 +42,11 @@ hr {
 /* ABOUT ME SECTION */
 .bg-primary {
 	background-color: #01579b;
+}
+
+/* Project Modals */
+.project-description {
+	color: black;
 }
 
 
