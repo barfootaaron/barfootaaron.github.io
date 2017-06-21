@@ -62,7 +62,7 @@ hr {
 	text-align: center;
 }
 
-.project-links a h3 {
+.project-links a h4 {
 	text-align: center;
 	color: #bbdefb !important;
 }
@@ -88,16 +88,25 @@ hr {
 	}
 }
 
-
-/* FOOTER */
-.footer-icon {
-	margin-top: 12px;
-}
-
-.footer-icon a {
+#contact a {
 	color: black;
 }
 
-.footer-icon p {
-	margin-top: 10px;
+
+/* FOOTER */
+footer {
+  border: 1px solid grey;
+  font-size: 1em;
+  padding-top: 30px;
+  color: white;
+  width: 100%;
+  background-color:#01579b;
 }
+
+#footer-text {
+	margin-bottom: 0px;
+	padding-bottom: 30px;
+	margin-left: 30px;
+}
+
+
