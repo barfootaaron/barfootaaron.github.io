@@ -82,6 +82,12 @@ hr {
 	margin-top: 20em;
 }
 
+@media (min-width: 768px) {
+.project-divider {
+	margin-top: 3em;
+	}
+}
+
 
 /* FOOTER */
 .footer-icon {
