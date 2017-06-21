@@ -58,9 +58,13 @@ hr {
 	color: black;
 }
 
+.portfolio-box-caption {
+	text-align: center;
+}
+
 .project-links a h3 {
 	text-align: center;
-	color: #e3f2fd !important;
+	color: #bbdefb !important;
 }
 
 .project-img {
