@@ -67,8 +67,8 @@ hr {
 @media (max-width: 768px) {
 .portfolio-box-caption {
 	text-align: center;
-	margin-left: 3%;
-	margin-right: 3%;	}
+	margin-left: 1%;
+	margin-right: 1%;	}
 }
 
 .project-links a h4 {
