@@ -64,6 +64,13 @@ hr {
 	margin-right: 10%;
 }
 
+@media (max-width: 768px) {
+.portfolio-box-caption {
+	text-align: center;
+	margin-left: 3%;
+	margin-right: 3%;	}
+}
+
 .project-links a h4 {
 	text-align: center;
 	color: #bbdefb !important;
